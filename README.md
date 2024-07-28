@@ -1,3 +1,8 @@
+## Use
+
+While running these scripts, I found interesting patterns on prime numbers that is not appearing when analyzing an artificial random distribution. 
+Likley to the buckets that the // bucketing bring when mapping to 2d (x, y = num % size, (num // size) % size), but still, they seem to have a special pattern.
+
 # Prime Number Fourier Analysis ("f3.py") file
 
 This Python project generates visualizations of prime number distributions using different 2D mapping methods and Fourier analysis. It creates a series of frames that can be combined into videos to show how the Fourier transform of prime number distributions changes with increasing grid sizes.
@@ -123,8 +128,6 @@ size_range: Range of grid sizes to use for mapping
 max_primes_needed: Maximum number of primes to generate (adjust based on your needs)
 
 ## Output
-
-I found interesting patterns on primes that do not appear when analyzing a random distribution. Likley to the buckets that the // bucketing brings.
 
 The script generates:
 
