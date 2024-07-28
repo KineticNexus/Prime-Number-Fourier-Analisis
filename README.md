@@ -1,7 +1,7 @@
 ## Use
 
-While running these scripts, I found interesting patterns on prime numbers that are not appearing when analyzing an artificial random distribution. 
-Likley to the buckets that the // bucketing bring when mapping to 2d (x, y = num % size, (num // size) % size), but still, they seem to have a special pattern.
+While running these scripts, I found interesting patterns on prime numbers that are not appearing when i run the script on artificially created random distributions, or even PI. 
+Likley to the buckets that the // bucketing bring when mapping to 2d?? (x, y = num % size, (num // size) % size). Still, they seem to have a special pattern that is nor present on pure random numbers.
 Any ideas why?? please email me (k i n e t i c n e x u s @ g m a i l . c o m)
 
 # Prime Number Fourier Analysis ("f3.py") file
