@@ -25,21 +25,17 @@ f3.py
 
 ## Installation
 
-1. Clone this repository:
-   ```
-   git clone https://github.com/yourusername/prime-number-fourier-analysis.git
-   ```
-2. Install the required Python packages:
+1. Install the required Python packages:
    ```
    pip install numpy matplotlib sympy scipy
    ```
-3. Ensure FFmpeg is installed on your system. If not, download and install it from [ffmpeg.org](https://ffmpeg.org/).
+2. Ensure FFmpeg is installed on your system. If not, download and install it from [ffmpeg.org](https://ffmpeg.org/).
 
 ## Usage
 
 1. Run the script:
    ```
-   python prime_fourier_analysis.py
+   python prime_number_fourier_analysis.py
    ```
 
 The script will:
@@ -69,7 +65,7 @@ You can adjust the following parameters in the script:
 
 The script generates:
 - Individual frames in the `frames/` directory
-- Three video files (one for each mapping method) named `prime_fourier_analysis_{method}.mp4`
+- Three video files (one for each mapping method) 
 
 
 ## Fourier Analysis of Prime Number Distribution ("fourier.py") file
@@ -95,7 +91,6 @@ OpenCV (cv2)
 ## Installation
 
 Clone this repository:
-Copygit clone https://github.com/yourusername/fourier-prime-analysis.git
 
 Install the required Python packages:
 Copypip install numpy matplotlib scipy sympy opencv-python
