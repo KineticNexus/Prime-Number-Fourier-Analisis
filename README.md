@@ -128,6 +128,9 @@ size_range: Range of grid sizes to use for mapping
 max_primes_needed: Maximum number of primes to generate (adjust based on your needs)
 
 ## Output
+
+I found interesting patterns on primes that do not appear when analyzing a random distribution. Likley to the buckets that the // bucketing brings.
+
 The script generates:
 
 Temporary PNG images for each grid size (these are deleted after processing)
